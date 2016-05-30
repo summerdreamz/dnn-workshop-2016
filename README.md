@@ -7,6 +7,6 @@
    * [Pili HU Demo](https://github.com/hupilidemo)
       * Demo Blog: http://hupilidemo.github.io/fany-blog/
       * From Silva: http://hupilidemo.github.io/HKBU/
-   * [lilan Demo](https://summerdreamz.github.io/fany-blog)   
+   * [amber Demo](https://summerdreamz.github.io/fany-blog)   
       * Demo Blog: http://summerdreamz.github.io/fany-blog/
  
